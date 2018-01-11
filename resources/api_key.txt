@@ -1,0 +1,4 @@
+Application name	trackster
+API key	          0f726d3865386d31cc3c03fa7f1fdd57
+Shared secret	    06a692d247181229080066e1a6b552d0
+Registered to	    rydbert
